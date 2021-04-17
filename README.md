@@ -89,6 +89,8 @@
 
 - 식사 및 야경 촬영 후 포장마차 촌 이동
 
+  <img src="https://user-images.githubusercontent.com/49663195/115128247-64c11700-a017-11eb-9530-79f442154c17.png" width="300">
+
 ### 21:00 - 해운대 포장마차촌
 
 - 더베이101에서 도보 약 10분 거리
@@ -99,8 +101,42 @@
 
   <img src="https://user-images.githubusercontent.com/49663195/115127804-78b74980-a014-11eb-8e03-9bdcc7ff4daf.png" width="300">
 
-### 22:00 ~ - 호텔 야경과 회 그리고 소주
+### 22:00 ~ 호텔 야경과 회 그리고 소주
 
 - 야경보면서 한 잔
 
   <img src="https://user-images.githubusercontent.com/49663195/115127898-0dba4280-a015-11eb-85ea-f755c97d00b2.png" width="300">
+
+## Day 2
+
+### 06:00 ~ 08:00: 기상 및 체크아웃 준비
+
+### 08:00 ~ 10:30: 다이닝룸 조식
+
+- 조식 운영시간: 06:30 ~ 10:30
+- 코로나로 인해 다이닝룸 뷔페 운영을 일시 중단 => 단품 메뉴 제공
+- The Park Breakfast: 45,000 원
+
+  <img src="https://user-images.githubusercontent.com/49663195/115128086-4f97b880-a016-11eb-8e39-91845d480563.png" width="300">
+
+### 11:00 - 파크하얏트부산호텔 체크아웃
+
+### 11:30 ~ 12:30 - 청사포 하진이네
+
+- 운영시간: 11:30 ~ 06:30
+- 뷰가 좋고, 아주머니가 직접 구워주신다 함. 서비스 친절도 호불호 갈리는 편
+- 조개구이 및 장어
+
+  <img src="https://user-images.githubusercontent.com/49663195/115128436-b4eca900-a018-11eb-9eb1-56d4c9dd11c7.png" width="300">
+
+### 12:30 ~ 13:00 - 도레도레 케이크
+
+- 운영시간: 11:30 ~ 20:30
+- 하진이네에서 도보 2분 거리
+
+  <img src="https://user-images.githubusercontent.com/49663195/115128568-a357d100-a019-11eb-8bb0-e9b881e68d71.png" width="300">
+
+- 바다, 커피, 케이크
+
+  <img src="https://user-images.githubusercontent.com/49663195/115128596-de5a0480-a019-11eb-8f99-1d72d8a41f88.png" width="300">
+  <img src="https://user-images.githubusercontent.com/49663195/115128620-f7fb4c00-a019-11eb-93fd-874d9fc19187.png" width="300">
