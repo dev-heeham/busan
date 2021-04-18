@@ -66,7 +66,7 @@
 - 운영시간: 06:00 ~ 22:00
 - 입수 시 수영모 착용 필수
 
-### 18:00 - 19:00 - 피오또
+### 18:30 - 20:00 - 피오또
 
 - 호텔에서 차량으로 이동 - 약 10분
 
@@ -78,13 +78,26 @@
   <img src="https://user-images.githubusercontent.com/49663195/115127527-270dbf80-a012-11eb-944f-5d0585934ae3.png" width="300">
   <img src="https://user-images.githubusercontent.com/49663195/115127521-15c4b300-a012-11eb-9e6f-faa15c4958a0.png" width="300">
 
-### 19:00 ~ 20:00 - 더베이101 도보 이동
+### [Option 1] 20:00 ~ 21:30 - 자갈치 시장 영호회집 이동
+
+- 차로 약 30분 이동
+
+  <img src="https://user-images.githubusercontent.com/49663195/115153484-18c2b080-a0b1-11eb-9bbb-7361b25818a4.png" width="300">
+
+- 회 테이크 아웃
+
+  <img src="https://user-images.githubusercontent.com/49663195/115153592-c9c94b00-a0b1-11eb-9b55-5a85565a6d05.png" width="300">
+
+- 차로 약 30분 이동해서 복귀
+- 이후 호텔 실내 일정
+
+### [Option 2] 20:00 ~ 21:00 - 더베이101 도보 이동
 
 - 해운대 길 따라 핑거스앤챗까지 도보 이동
 
   <img src="https://user-images.githubusercontent.com/49663195/115127624-d480d300-a012-11eb-9afe-fdd00f7d6609.png" width="300">
 
-### 20:00 ~ 21:00 - 핑거스앤챗 & 더베이101 야경 감상
+### [Option 2] 21:00 ~ 21:30 - 핑거스앤챗 & 더베이101 야경 감상
 
 - 운영시간: 13:00 ~ 22:00
 - | 메뉴             | 가격   |
@@ -101,7 +114,7 @@
 
   <img src="https://user-images.githubusercontent.com/49663195/115128247-64c11700-a017-11eb-9530-79f442154c17.png" width="300">
 
-### 21:00 - 해운대 포장마차촌
+### [Option 2] 21:30 - 해운대 포장마차촌
 
 - 더베이101에서 도보 약 10분 거리
 
@@ -131,15 +144,15 @@
 
 ### 11:00 - 파크하얏트부산호텔 체크아웃
 
-### 11:30 ~ 12:30 - 청사포 하진이네
+<!-- ### 11:30 ~ 12:30 - 청사포 하진이네
 
 - 운영시간: 11:30 ~ 06:30
 - 뷰가 좋고, 아주머니가 직접 구워주신다 함. 서비스 친절도 호불호 갈리는 편
 - 조개구이 및 장어
 
-  <img src="https://user-images.githubusercontent.com/49663195/115128436-b4eca900-a018-11eb-9eb1-56d4c9dd11c7.png" width="300">
+  <img src="https://user-images.githubusercontent.com/49663195/115128436-b4eca900-a018-11eb-9eb1-56d4c9dd11c7.png" width="300"> -->
 
-### 12:30 ~ 13:00 - 도레도레 청사포점
+<!-- ### 12:30 ~ 13:00 - 도레도레 청사포점
 
 - 운영시간: 11:30 ~ 20:30
 - 하진이네에서 도보 2분 거리
@@ -149,9 +162,9 @@
 - 바다, 커피, 케이크
 
   <img src="https://user-images.githubusercontent.com/49663195/115128596-de5a0480-a019-11eb-8f99-1d72d8a41f88.png" width="300">
-  <img src="https://user-images.githubusercontent.com/49663195/115128620-f7fb4c00-a019-11eb-93fd-874d9fc19187.png" width="300">
+  <img src="https://user-images.githubusercontent.com/49663195/115128620-f7fb4c00-a019-11eb-93fd-874d9fc19187.png" width="300"> -->
 
-### 13:00 ~ 14:00 - 죽도공원 산책
+<!-- ### 13:00 ~ 14:00 - 죽도공원 산책
 
 - 도레도레에서 차로 10분 거리
 
@@ -174,9 +187,64 @@
 - 포장마차 형태 또는 식당에서 모듬 회
 - 전복, 낙지, 소라, 개불, 멍게 등
 
+  <img src="https://user-images.githubusercontent.com/49663195/115129872-ef5c4300-a024-11eb-8e8b-05aff1fc9ff4.png" width="300"> -->
+
+### 11:00 ~ 11:30 - 기장 해진횟집 이동
+
+- 차로 약 30분 이동
+
+ <img src="https://user-images.githubusercontent.com/49663195/115153985-9687bb80-a0b3-11eb-9a0d-600e2ead5765.png" width="300">
+
+### 11:30 ~ 13:00 - 기장 해진횟집 장어구이 & 회
+
+- 운영시간: 10:00 ~ 21:00
+- 장어 & 새우구이, 각종 회
+
+  <img src="https://user-images.githubusercontent.com/49663195/115154278-fd59a480-a0b4-11eb-9f69-30098a3cd8d7.png" width="300">
+
+  <img src="https://user-images.githubusercontent.com/49663195/115154162-6ee52300-a0b4-11eb-9f75-e3b2794f1e72.png" width="300">
+
+### 13:00 ~ 13:10 - 해물포장마차촌 이동
+
+- 해물포장마차촌 이동
+
+  <img src="https://user-images.githubusercontent.com/49663195/115154462-eff0ea00-a0b5-11eb-8c30-0cfd2baa06c7.png" width="300">
+
+### 13:10 ~ 14:00 - 해물포장마차촌 원조노씨아지매 모듬 회
+
+- 전복, 낙지, 소라, 개불, 멍게 등
+
+  <img src="https://user-images.githubusercontent.com/49663195/115154589-a228b180-a0b6-11eb-8f7d-09ac0f92738d.png" width="300">
+
   <img src="https://user-images.githubusercontent.com/49663195/115129872-ef5c4300-a024-11eb-8e8b-05aff1fc9ff4.png" width="300">
 
-### 15:30 ~ 16:00 - 신라스테이 해운대 이동 및 체크인
+### 14:00 ~ 15:30 - 신라스테이 해운대 이동 및 체크인
+
+- 차로 약 20분 이동
+
+  <img src="https://user-images.githubusercontent.com/49663195/115129154-5d513c00-a01e-11eb-9ea5-f7d585d4a0e8.png" width="300">
+
+- 신라스테이 수영장/자쿠지 미운영기간: 1월 1일 ~ 7월 2일
+
+### 15:30 ~ 17:00 - 신세계백화점 센텀시티점 이동 후 쇼핑
+
+- 신라스테이에서 차로 10분 거리
+
+  <img src="https://user-images.githubusercontent.com/49663195/115129303-94741d00-a01f-11eb-8edf-cee5355219a1.png" width="300">
+
+- 쇼핑하며 소화
+
+### 17:00 ~ 18:00 - 자갈치시장 영호횟집 테이크아웃 후 해운대 복귀
+
+- 차로 약 20 ~ 30분
+
+  <img src="https://user-images.githubusercontent.com/49663195/115154820-c638c280-a0b7-11eb-8f86-5bc04b3d239e.png" width="300">
+
+- 송송 썰은 회
+
+  <img src="https://user-images.githubusercontent.com/49663195/115154873-08fa9a80-a0b8-11eb-9ec3-1ed5e9c5140e.png" width="300">
+
+<!-- ### 15:30 ~ 16:00 - 신라스테이 해운대 이동 및 체크인
 
 - 차로 약 20분 이동
 
@@ -190,9 +258,9 @@
 
   <img src="https://user-images.githubusercontent.com/49663195/115129303-94741d00-a01f-11eb-8edf-cee5355219a1.png" width="300">
 
-- 쇼핑하며 소화
+- 쇼핑하며 소화 -->
 
-### 18:00 ~ 19:00 - 해성막창집 본점 이동 후 식사
+### 18:00 ~ 19:00 - 해성막창집 본점 이동 후 식사 또는 테이크 아웃
 
 - 고기 주문시 3인분 이상. 고기 식사 후 전골 2인분 이상부터 주문 가능
 - 웨이팅 긴 편
