@@ -8,6 +8,8 @@
 - 핸드폰 & 보조배터리
 - 카드 & 현금 & 신분증
 - 여벌 옷 & 수영복
+- 세면도구
+- 상비약
 
 ## Day 1
 
@@ -172,6 +174,8 @@
 - 포장마차 형태 또는 식당에서 모듬 회
 - 전복, 낙지, 소라, 개불, 멍게 등
 
+  <img src="https://user-images.githubusercontent.com/49663195/115129872-ef5c4300-a024-11eb-8e8b-05aff1fc9ff4.png" width="300">
+
 ### 15:30 ~ 16:00 - 신라스테이 해운대 이동 및 체크인
 
 - 차로 약 20분 이동
@@ -201,3 +205,17 @@
   <img src="https://user-images.githubusercontent.com/49663195/115129388-693dfd80-a020-11eb-8501-1d1566267d69.png" width="300">
 
   <img src="https://user-images.githubusercontent.com/49663195/115129392-735ffc00-a020-11eb-934c-3894f886e66c.png" width="300">
+
+### 19:00 ~ TODO...
+
+- 호텔 야경
+- Bar
+- 또 회?
+
+## Day 3
+
+- 호텔 체크아웃
+- 거대갈비, 한방장어
+- 마이페이보릿쿠키, 나이브브류어스
+- 초량밀면
+- KTX 귀가
